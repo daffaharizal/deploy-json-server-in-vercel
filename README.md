@@ -1,3 +1,3 @@
-# deploy-json-server-in-vercel
+# Deploy JSON Server in Vercel
 
 https://json-server-in-vercel.vercel.app/movies
